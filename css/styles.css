@@ -28,7 +28,7 @@ body {
 }
 .link:hover, 
 .link:focus,
-.current {
+.nav-item.link.current {
     color: var(--accent-color);
 }
 .visually-hidden {
