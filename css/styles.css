@@ -83,6 +83,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
+    color: var(--main-title-color);
 }
 .logo-first {
     color: var(--accent-color);
@@ -93,6 +94,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: var(--main-title-color);
 }
 .address-item {
     font-style: normal;
